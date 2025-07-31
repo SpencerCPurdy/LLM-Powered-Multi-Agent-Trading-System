@@ -1,3 +1,5 @@
+Live Demo: https://huggingface.co/spaces/SpencerCPurdy/LLM-Powered_Multi-Agent_Trading_System
+
 # LLM-Powered Multi-Agent Trading System
 
 This project is a sophisticated simulation of a multi-agent algorithmic trading system. It demonstrates how a team of specialized, AI-powered agents can collaborate to analyze market conditions and make trading decisions. The system is architected around a central Deep Q-Network (DQN) coordinator that learns to weigh the signals from each agent, optimizing the overall strategy through reinforcement learning.
