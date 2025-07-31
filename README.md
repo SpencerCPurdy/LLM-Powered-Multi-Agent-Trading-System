@@ -1,15 +1,3 @@
----
-title: LLM-Powered Multi-Agent Trading System
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 5.39.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: AI trading system with live LLM agents & a DQN coordinator
----
-
 # LLM-Powered Multi-Agent Trading System
 
 This project is a sophisticated simulation of a multi-agent algorithmic trading system. It demonstrates how a team of specialized, AI-powered agents can collaborate to analyze market conditions and make trading decisions. The system is architected around a central Deep Q-Network (DQN) coordinator that learns to weigh the signals from each agent, optimizing the overall strategy through reinforcement learning.
