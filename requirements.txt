@@ -1,0 +1,14 @@
+transformers
+torch
+numpy
+pandas
+scikit-learn
+plotly
+gradio
+yfinance
+ta
+scipy
+gymnasium
+accelerate
+openai
+newsapi-python
